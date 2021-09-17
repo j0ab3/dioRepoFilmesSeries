@@ -9,7 +9,7 @@ Este README  foi criado para descrever a aplicação de Exemplo de Repositorio e
 * Classe Abstrata;
 * Interface;
 
-`` `Terminal Console Intuitivo
+```Terminal Console Intuitivo
 ```
 
 [Plataforma DIO] (https://web.digitalinnovation.one/)
